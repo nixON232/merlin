@@ -1,6 +1,6 @@
 __pycache__/
 model*/*
-env/
+.venv/
 references/
 .DS_Store
 .vscode/
